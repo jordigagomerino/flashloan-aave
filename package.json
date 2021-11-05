@@ -1,0 +1,12 @@
+{
+  "name": "flashloan_aave_polygon",
+  "description": "Flashloan AAVE V2 on Polgyon MATIC",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/jordigagomerino/flashloan-aave",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "truffle": "5.0.0",
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
